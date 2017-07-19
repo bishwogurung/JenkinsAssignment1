@@ -1,1 +1,32 @@
+/RemoteSystemsTempFiles/
+.metadata
+*.metadata
+.settings
+*.settings
+*.idea/
+*.idea/workspace
+.recommenders
+*logs/
+*.iml
+/bin/
+/Servers/
+/target/
+*/target/
+/External Files/
+
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+.mtj.tmp/
+
+*.log
+
+*.class
+
+*.ctxt
+
 
